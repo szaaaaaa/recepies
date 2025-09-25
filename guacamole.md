@@ -1,6 +1,6 @@
 # guacamole
 ## Ingredients
 *vocado
-*lime
+*lion
 *salt
 ## Instructions
